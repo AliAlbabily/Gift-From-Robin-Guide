@@ -1,0 +1,28 @@
+{
+  "name": "gift-from-robin-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "devStart": "nodemon bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliAlbabily/Gift-From-Robin-Guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliAlbabily/Gift-From-Robin-Guide/issues"
+  },
+  "homepage": "https://github.com/AliAlbabily/Gift-From-Robin-Guide#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
